@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EgorChaikaa
+- 👋 Hi, I’m @EgorChaika
 - 👀 I’m interested in Web-Development.
 - 🌱 I’m currently learning National Aviation University.
 - 💞️ I’m looking to collaborate with clients.
